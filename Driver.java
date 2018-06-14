@@ -2,15 +2,6 @@ package com.hackercode.Driver;
 import UserDefinedException.InsufficientFundsException;
 import com.hackercode.utility.*;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-import java.util.ArrayList;
-import java.util.Hashtable;
-
-import java.util.Vector;
-
-import static java.lang.System.*;
-
 public class Driver {
         public static void main(String arg[]) {
             CheckingAccount c = new CheckingAccount(101);
